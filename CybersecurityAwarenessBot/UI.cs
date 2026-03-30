@@ -18,7 +18,7 @@ namespace CybersecurityAwarenessBot
                 "  ███    ███ ███▌    ▄ ███▌    ▄     ███   ▄███ ███    ███ ███   ███    ███   ███    ███   ███    ███ ",
                 "  ██████████ █████▄▄██ █████▄▄██   ▄█████████▀   ▀██████▀  █▀    ███    ███   ██████████   ██████████ ",
                 "             ▀         ▀                                                                                 ",
-                "                          Cybersecurity Awareness Bot – Stay Protected Online!                          ",
+                "                          \"                          \"                          Cybersecurity Awareness Bot – Stay Protected Online! 🇿🇦 (South Africa)                          \",                          \",                        ",
                 "═══════════════════════════════════════════════════════════════════════════════════════════════════════════"
             };
 
