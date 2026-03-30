@@ -1,14 +1,25 @@
-# Cybersecurity Awareness Bot
+# Cybersecurity Awareness Bot - Part 1
 
-This project is a console-based chatbot developed in C#.
+## Description
+A console-based chatbot designed to educate South African citizens about common cyber threats such as phishing, OTP scams, SARS fraud, and safe online practices.
 
-The chatbot educates users about cybersecurity threats such as:
-- Phishing
-- Password security
-- Safe browsing
-- Social engineering
+## Features
+- Voice greeting using WAV file
+- Colorful ASCII art header with South African flag
+- Personalized user name with input validation
+- Typewriter effect for conversational feel
+- South Africa-specific cybersecurity responses
+- Random daily security tip
+- Enhanced colored console UI
 
-Features:
-- Interactive chatbot conversation
-- Typing animation
-- Cybersecurity awareness tips
+## How to Run
+1. Open the solution in Visual Studio
+2. Ensure `greeting.wav` is in the `Assets` folder and set to "Copy always"
+3. Build and run the project (F5)
+
+## Technologies Used
+- C# (.NET 8)
+- System.Media.SoundPlayer
+- Console color formatting
+
+GitHub Actions CI is configured and passing.
