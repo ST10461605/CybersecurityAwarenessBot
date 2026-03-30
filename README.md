@@ -22,4 +22,14 @@ A console-based chatbot designed to educate South African citizens about common 
 - System.Media.SoundPlayer
 - Console color formatting
 
+
 GitHub Actions CI is configured and passing.
+## GitHub Actions CI Pipeline
+
+This project uses GitHub Actions for Continuous Integration.  
+The workflow automatically builds the .NET application whenever code is pushed.
+
+Successful workflow run:
+
+
+![CI Build Success] (<img width="1440" height="900" alt="Screenshot 2026-03-30 at 16 53 27" src="https://github.com/user-attachments/assets/3d064c23-5d7c-4c34-987a-b77265360ea6" />)
