@@ -39,7 +39,7 @@ namespace CybersecurityAwarenessBot
             string tip = DailyTips[rand.Next(DailyTips.Length)];
 
             Console.ForegroundColor = ConsoleColor.DarkYellow;
-            Console.WriteLine("╔═══════════════════════ Daily Security Tip ═══════════════════════╗");
+            Console.WriteLine("╔═══════════════════════ Daily Cybersecurity Tip (SA) ═══════════════════════╗");
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine($"  {tip}");
             Console.ForegroundColor = ConsoleColor.DarkYellow;
