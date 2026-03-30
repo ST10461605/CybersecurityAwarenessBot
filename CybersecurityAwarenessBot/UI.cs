@@ -31,7 +31,7 @@ namespace CybersecurityAwarenessBot
 
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine(logo[^2]);   // Now includes "– Stay Protected Online! 🇿🇦"
-            Console.ForegroundColor = ConsoleColor.DarkGreen;
+            Console.ForegroundColor = ConsoleColor.DarkGreen;  
             Console.WriteLine(logo[^1]);
 
             Console.ResetColor();

@@ -27,7 +27,7 @@ namespace CybersecurityAwarenessBot
             string name;
 
             Console.ForegroundColor = ConsoleColor.Cyan;
-            TypewriterEffect.Typewrite("Hello and welcome to the Cybersecurity Awareness Bot!\n\n", 35);
+            TypewriterEffect.Typewrite("Hello and welcome to the Cybersecurity Awareness Bot for South Africa!\n\n", 35);
             Console.ResetColor();
 
             do
