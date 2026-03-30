@@ -23,7 +23,7 @@ namespace CybersecurityAwarenessBot
             { "malware", "Don't open unknown email attachments. Avoid USBs found in public places. Fake Windows updates are common traps." },
             { "2fa", "Turn on two-factor authentication everywhere possible – especially email and banking apps." }
         };
-
+        // Dictionary for quick keyword-based responses including SA-specific scams
         private static readonly string[] DailyTips = new[]
         {
             "Daily tip: Never share your OTP – not even with someone claiming to be from your bank.",
