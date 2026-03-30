@@ -27,7 +27,7 @@ namespace CybersecurityAwarenessBot
 
             // Farewell
             Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine($"\nThank you for using the bot, {userName}! Stay safe online. 🇿🇦");
+            Console.WriteLine($"\nThank you for using the Cybersecurity Awareness Bot, {userName}! Stay safe online. 🇿🇦");
             Console.ResetColor();
 
             Console.WriteLine("\nPress any key to exit...");
